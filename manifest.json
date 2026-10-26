@@ -1,0 +1,20 @@
+{
+  "id": "gesture-synth",
+  "title": {
+    "en": "gesture-synth",
+    "zh": "手势合成器"
+  },
+  "intro": {
+    "en": "Glide your fingers through a luminous theremin. Bend pitch, color the tone, and add a second finger for harmony.",
+    "zh": "用指尖拨动发光的声音场。滑动改变音高与音色，双指合奏出和声。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/synth.css",
+    "vendor/synth.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/gesture-synth"
+}
